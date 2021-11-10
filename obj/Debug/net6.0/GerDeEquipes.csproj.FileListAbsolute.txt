@@ -1,0 +1,15 @@
+C:\Users\Sandra\Desktop\GerDeEquipes\obj\Debug\net6.0\GerDeEquipes.csproj.AssemblyReference.cache
+C:\Users\Sandra\Desktop\GerDeEquipes\obj\Debug\net6.0\GerDeEquipes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sandra\Desktop\GerDeEquipes\obj\Debug\net6.0\GerDeEquipes.AssemblyInfoInputs.cache
+C:\Users\Sandra\Desktop\GerDeEquipes\obj\Debug\net6.0\GerDeEquipes.AssemblyInfo.cs
+C:\Users\Sandra\Desktop\GerDeEquipes\obj\Debug\net6.0\GerDeEquipes.csproj.CoreCompileInputs.cache
+C:\Users\Sandra\Desktop\GerDeEquipes\bin\Debug\net6.0\GerDeEquipes.exe
+C:\Users\Sandra\Desktop\GerDeEquipes\bin\Debug\net6.0\GerDeEquipes.deps.json
+C:\Users\Sandra\Desktop\GerDeEquipes\bin\Debug\net6.0\GerDeEquipes.runtimeconfig.json
+C:\Users\Sandra\Desktop\GerDeEquipes\bin\Debug\net6.0\GerDeEquipes.dll
+C:\Users\Sandra\Desktop\GerDeEquipes\bin\Debug\net6.0\ref\GerDeEquipes.dll
+C:\Users\Sandra\Desktop\GerDeEquipes\bin\Debug\net6.0\GerDeEquipes.pdb
+C:\Users\Sandra\Desktop\GerDeEquipes\obj\Debug\net6.0\GerDeEquipes.dll
+C:\Users\Sandra\Desktop\GerDeEquipes\obj\Debug\net6.0\ref\GerDeEquipes.dll
+C:\Users\Sandra\Desktop\GerDeEquipes\obj\Debug\net6.0\GerDeEquipes.pdb
+C:\Users\Sandra\Desktop\GerDeEquipes\obj\Debug\net6.0\GerDeEquipes.genruntimeconfig.cache
